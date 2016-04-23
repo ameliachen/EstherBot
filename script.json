@@ -4,7 +4,7 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
-    "what are my options?": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
+    "what are my options?" : "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
     "what?": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
     "learn?": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
     "huh": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
@@ -14,5 +14,8 @@
     "bot": "Cool, Did you know I was a bot? You wouldn't have guessed, would you?",    
     "really?": "You're welcome! Have fun learning today",
     "thanks": "You're welcome! Have fun learning today",
+    "ai": "Cool, check this link out: https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 . It's a free course from Coursera. A high level of commitment is needed. Does this suit your needs? ",
+    "AI": "Cool, check this link out: https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 . It's a free course from Coursera. A high level of commitment is needed. Does this suit your needs? ",    
+
 
 }
