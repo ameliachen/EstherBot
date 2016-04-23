@@ -1,20 +1,7 @@
-{
-    "hello": "Hi there. What would you like to learn today?",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
-    "what?": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
-    "learn?": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
-    "huh": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
-    "what can I learn?": "I'm glad you asked. Here are a few options for you. You can learn about bots, AI, or I can tell you a joke. What would you like? ",
-    "Bots": "Cool, Did you know I was a bot? You wouldn't have guessed, would you?",    
-    "bots": "Cool, Did you know I was a bot? You wouldn't have guessed, would you?",    
-    "bot": "Cool, Did you know I was a bot? You wouldn't have guessed, would you?",    
-    "really?": "You're welcome! Have fun learning today",
-    "thanks": "You're welcome! Have fun learning today",
-    "ai": "Cool, check this link out: https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 . It's a free course from Coursera. A high level of commitment is needed. Does this suit your needs? ",
-    "AI": "Cool, check this link out: https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 . It's a free course from Coursera. A high level of commitment is needed. Does this suit your needs? ",    
-
-
+ {
+      "HELLO": "Hey, I'm so glad you set EstherBot up!",
+      "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
+ +    "I LOVE YOU": "Awh, shucks! I love you too!",
+      "CONNECT ME": "",
+      "DISCONNECT": "Roger that, EstherBot is back."
 }
