@@ -1,9 +1,9 @@
 {
-    "YES": "Hey, I'm so glad you're ready to learn!",
+    "YES": "Hey, I'm so glad you're ready to learn! Let's get started. Type LEARN to begin",
     "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, LearningBot is back.",
+    "DISCONNECT": "Roger that, Sir Learn-a-Lot is back.",
     "LEARN": "You can learn about Bots or AI. Which would you like?", 
     "AI": "Great, here's a resource for you: https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 Warning: This requires quite a bit of time commitment. If you're interested in something easier, try Bots instead",
     "BOTS": "Did you know I am a Bot?",
