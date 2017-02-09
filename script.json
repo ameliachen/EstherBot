@@ -1,12 +1,8 @@
 {
-    "YES": "Hey, I'm so glad you're ready to learn! Let's get started. Type LEARN to begin",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
+    "BOT": "Hi there!\nI’m the personal bot of Ami, an Product Marketer from Singapore.\n![ami](ami.wookypooky.com/images/girl.jpg)\nWant to know more about Amelia? % %[Learn about Ami](postback:learn_about_ami) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you're here! Do you want to tell Amelia that you're talking to her bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ameliachen so she can be in touch. Here's a tweet that's ready to go: %[Tweet Ami](http://bit.ly/amibot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, Sir Learn-a-Lot is back.",
-    "LEARN": "You can learn about Bots or AI. Which would you like?", 
-    "AI": "Great, here's a resource for you: https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 Warning: This requires quite a bit of time commitment. If you're interested in something easier, try Bots instead",
-    "BOTS": "Did you know I am a Bot?",
-    "Y": "Wow, you're awesome!",
-    "N": "Well, now you know!"
+    "DISCONNECT": "Roger that, AmiBot is back."
 }
